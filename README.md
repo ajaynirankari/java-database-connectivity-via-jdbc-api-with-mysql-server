@@ -78,4 +78,7 @@ try (Connection connection = DriverManager.getConnection("jdbc:mysql://localhost
         }
 ```
 
+Reference Link - Java Connect MySQL via JDBC Driver
+---------------------------------------------------
+https://dev.mysql.com/doc/connector-j/en/connector-j-usagenotes-basic.html
 
